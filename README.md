@@ -15,7 +15,7 @@ The core objective is to maximize the **Performance-per-Dollar (PPD)** Ratio.
 
 **PPD Ratio (14.0):** The primary KPI of this model. A PPD of 14.0 represents peak operational efficiency, ensuring that R&D investments are targeted to yield maximum competitive gains per dollar spent.
 * **AI-Driven Logistics (0.2 Efficiency Factor):** Utilizing a 20% savings coefficient on logistics, the model integrates predictive maintenance and supply chain optimization logic. This approach is validated by **McKinsey & Co. industry benchmarks** for AI in distribution operations, allowing the team to reallocate thousands back into performance R&D.
-**Dynamic Risk Contingency (15% | 22% | 30%):** Risk management is not static, it scales with the racing calendar:
+* **Dynamic Risk Contingency (15% | 22% | 30%):** Risk management is not static, it scales with the racing calendar:
     * **15% (Low):** Baseline for permanent road tracks (standard wear).
     * **22% (Medium):** Adjusted for street circuits (high structural damage due to concrete barriers).
     * **30% (High):** Calibrated for Superspeedways/Indy 500 scenarios (full chassis replacement).
