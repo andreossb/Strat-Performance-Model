@@ -1,6 +1,6 @@
 # 🏎️ | IndyCar Strategic Budget Optimizer v1.0
 
-This repository hosts a financial simulation model for a professional IndyCar team. The project focuses on optimizing a **annual budget**, balancing aggressive technical development **(R&D)** with operational resilience through AI-driven efficiencies and dynamic risk management.
+This repository hosts a financial simulation model for a professional IndyCar team. The project focuses on optimizing an **annual budget**, balancing aggressive technical development **(R&D)** with operational resilience through AI-driven efficiencies and dynamic risk management.
 
 ## 📊 | Executive Summary
 The model is designed to position a team as a "Top-Tier Challenger" capable of outperforming larger organizations through superior resource allocation. 
