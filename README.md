@@ -3,19 +3,18 @@
 This repository hosts a financial simulation model for a professional IndyCar team. The project focuses on optimizing an **annual budget**, balancing aggressive technical development **(R&D)** with operational resilience through AI-driven efficiencies and dynamic risk management.
 
 ## 📊 | Executive Summary
-The model is designed to position a team as a "Top-Tier Challenger" capable of outperforming larger organizations through superior resource allocation. 
-The core objective is to maximize the **Performance-per-Dollar (PPD)** Ratio.
+The model is designed to position a team as a Top-Tier team able to outperform larger teams through resource allocation and the core objective is to maximize the **Performance-per-Dollar (PPD)** Ratio.
 
 ### 💼 | Budget Highlights
-| **Total Budget** | $11,175,000 | Top-Tier Challenger Level |
-| **R&D Investment** | $1,400,000 | Focused on Aerodynamics |
-| **PPD Ratio** | 14.0 | Max Efficiency Target |
+* **Total Budget** | $11,175,000 | Top-Tier Challenger Level
+* **R&D Investment** | $1,400,000 | Focused on Aerodynamics
+* **PPD Ratio** | 14.0 | Max Efficiency Target
 
 ### 🗝️ | Key Strategic Pillars
 
-**PPD Ratio (14.0):** The primary KPI of this model. A PPD of 14.0 represents peak operational efficiency, ensuring that R&D investments are targeted to yield maximum competitive gains per dollar spent.
-* **AI-Driven Logistics (0.2 Efficiency Factor):** Utilizing a 20% savings coefficient on logistics, the model integrates predictive maintenance and supply chain optimization logic. This approach is validated by **McKinsey & Co. industry benchmarks** for AI in distribution operations, allowing the team to reallocate thousands back into performance R&D.
-* **Dynamic Risk Contingency (15% | 22% | 30%):** Risk management is not static, it scales with the racing calendar:
+**PPD Ratio (14.0):** The primary KPI of this model. A PPD of 14.0 represents peak operational efficiency, ensuring that R&D investments are targeted to yield maximum competitive gains/dollar spent.
+* **AI-Driven Logistics (0.2 Efficiency Factor):** Utilizing a 20% savings coefficient on logistics, the model integrates predictive maintenance and supply chain optimization logic. This approach is validated by **McKinsey & Co. industry benchmarks** for AI in distribution operations, allowing the team to reallocate thousands back into R&D.
+* **Dynamic Risk Contingency (15% | 22% | 30%):** Risk management isn't static, it scales with the racing calendar:
     * **15% (Low):** Baseline for permanent road tracks (standard wear).
     * **22% (Medium):** Adjusted for street circuits (high structural damage due to concrete barriers).
     * **30% (High):** Calibrated for Superspeedways/Indy 500 scenarios (full chassis replacement).
