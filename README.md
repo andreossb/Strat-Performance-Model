@@ -35,3 +35,5 @@ The result is a robust data-driven financial framework. It demonstrates that mod
 **Author:** Andrea M.  
 **Field:** Financial Optimization  
 **Tools:** Microsoft Excel, Data Modeling, Risk Analysis
+
+In constant update..
