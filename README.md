@@ -25,6 +25,7 @@ The model is designed to position a team as a Top-Tier team able to outperform l
 * **RND_PERFORMANCE_MODEL:** R&D Spend, AI savings and Expected Points Per Race.
 * **HEATMAP AND MONTE_CARLO:** Graphic analysis.
 * **EXECUTIVE:** Dashboard featuring key metrics, their values and interpretations.
+* **LOVABLE AI WEB PAGE:** https://race-track-pilot.lovable.app
 
 ---
 
